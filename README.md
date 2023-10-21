@@ -1,5 +1,5 @@
 # Calculator_web
-This is a Simple Calculator Created with html css and js..
+This is a Simple Calculator Created with html css and js.You can use this calculator only for addition subtraction multiplication and division purpose..
 
 ## To Run
 - Clone the project.
