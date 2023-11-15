@@ -4,7 +4,6 @@ Welcome to the Simple Calculator Web Application! This project provides a basic 
 ## Table of Contents
 - [Features](#features)
 - [Demo](#demo)
-- [Usage](#usage)
 
 ## Features
 - Addition
